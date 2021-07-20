@@ -141,10 +141,12 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="C_Calculate.cpp" />
+    <ClCompile Include="C_Consumption.cpp" />
     <ClCompile Include="C_Count.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Calculate.h" />
+    <ClInclude Include="C_Consumption.h" />
     <ClInclude Include="C_Count.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
