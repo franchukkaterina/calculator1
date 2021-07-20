@@ -21,9 +21,15 @@
     <ClCompile Include="C_Calculate.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="C_Count.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Calculate.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Count.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
